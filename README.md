@@ -1,1 +1,1 @@
-# laba-1
+# Yakhimchyk Daniil POIT-6
